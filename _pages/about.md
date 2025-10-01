@@ -17,6 +17,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
+_Updated: Deployment test 2025-10-01_
+
 # Key Dates
 - **Abstract & Submission deadline**: December 1st, 2025 23:59 AOE
   - [Submit to OpenReview](https://openreview.net/group?id=ICLR.cc/2026/BlogPosts)
